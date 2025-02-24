@@ -4,7 +4,7 @@
 | **Algorithm**         | **Best Time Complexity** | **Average Time Complexity** | **Worst Time Complexity** | **Space Complexity** |
 |-----------------------|--------------------------|-----------------------------|---------------------------|----------------------|
 | **Linear Search** (built-in)      | O(1)                     | O(n)                        | O(n)                      | O(1)                 |
-| **Binary Search**(https://github.com/AzizjonTuraev/DS_and_Algorithms/blob/master/binary_seach.ipynb)      | O(1)                     | O(log n)                    | O(log n)                  | O(1)                 |
+| [**Binary Search**](https://github.com/AzizjonTuraev/DS_and_Algorithms/blob/master/binary_seach.ipynb)      | O(1)                     | O(log n)                    | O(log n)                  | O(1)                 |
 | **Exponential Search** | O(1)                     | O(log n)                    | O(log n)                  | O(1)                 |
 | **Jump Search**        | O(√n)                    | O(√n)                       | O(√n)                     | O(1)                 |
 | **Hash Table**         | O(1)                     | O(1)                        | O(n)                      | O(n)                 |
